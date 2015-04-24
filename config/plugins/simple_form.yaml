@@ -1,0 +1,9 @@
+enabled: true
+
+token: ""
+template_file: "simple_form"
+
+fields:
+
+messages:
+  success: "Your message has been sent."

@@ -1,0 +1,13 @@
+name: Woo Site
+version: 1.0.0
+description: "Woo is a clean, modern, landing page site template Styleshout. It has a fully responsive design and was tested on all major browser and mobile devices."
+icon: group
+author:
+  name: Team Grav
+  email: devs@getgrav.org
+  url: http://getgrav.org
+homepage: https://github.com/getgrav/grav-skeleton-woo-site
+demo: http://demo.getgrav.org/woo-skeleton
+keywords: woo, skeleton, scroll, bootstrap, page, modular
+bugs: https://github.com/getgrav/grav-skeleton-woo-site/issues
+license: MIT

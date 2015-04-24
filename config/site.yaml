@@ -1,0 +1,49 @@
+title: Twenty
+author:
+  name: Joe Bloggs
+  email: 'joe@test.com'
+metadata:
+    description: 'Twenty is a free and responsive theme for **Grav**. Its a port of Twenty template by HTML5 UP.'
+    
+# Site settings
+title: Awesome Title
+email: your-email@domain.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  -  url: "#"
+     icon: facebook.png
+  -  url: "#"
+     icon: gplus.png
+  -  url: "#"
+     icon: twitter.png
+  -  url: "#"
+     icon: rss.png    
+
+copyright: 
+  line1: Untitled
+  line2: Design:
+  url: http://html5up.net
+  url_label: HTML5 UP
+    
+logo:
+  text1: "Twenty"
+  text2: "by HTML5 UP"
+
+# Main Menu
+menu:
+  - text: "submenu"
+    submenu:
+      - text: "info"
+        link: "#"
+      - text: "profile"
+        link: "#"  
+      - text: "news"
+        link: "#"
+        submenu:
+          - text: "fresh"
+            link: "#"
+          - text: "archive"
+            link: "#"  
+    link: "#" 

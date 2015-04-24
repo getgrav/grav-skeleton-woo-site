@@ -1,0 +1,34 @@
+git:
+    problems:
+        url: https://github.com/getgrav/grav-plugin-problems
+        path: user/plugins/problems
+        branch: develop
+    error:
+        url: https://github.com/getgrav/grav-plugin-error
+        path: user/plugins/error
+        branch: develop
+    simple_form:
+        url: https://github.com/nunopress/grav-plugin-simple_form
+        path: user/plugins/simple_form
+        branch: develop    
+    woo:
+        url: https://github.com/getgrav/grav-theme-woo
+        path: user/themes/woo
+        branch: develop
+links:
+    problems:
+        src: grav-plugin-problems
+        path: user/plugins/problems
+        scm: github
+    simple_form:
+        src: grav-plugin-simple_form
+        path: user/plugins/simple_form
+        scm: github    
+    error:
+        src: grav-plugin-error
+        path: user/plugins/error
+        scm: github
+    woo:
+        src: grav-theme-woo
+        path: user/themes/woo
+        scm: github
