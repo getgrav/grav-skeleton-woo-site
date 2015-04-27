@@ -10,11 +10,8 @@ content:
         by: default
         dir: asc
         custom:
-            - _slider
-            - _welcome
-            - _categories
-            - _portfolio
-            - _footer
+            - _showcase
+            - _features
 ---
 
 
