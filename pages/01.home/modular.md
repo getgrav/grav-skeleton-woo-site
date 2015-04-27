@@ -12,6 +12,8 @@ content:
         custom:
             - _showcase
             - _features
+            - _pricing
+            - _callout
 ---
 
 

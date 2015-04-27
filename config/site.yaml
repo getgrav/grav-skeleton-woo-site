@@ -31,17 +31,13 @@ logo:
 
 # Main Menu
 menu:
-  - text: "submenu"
-    submenu:
-      - text: "info"
-        link: "#"
-      - text: "profile"
-        link: "#"  
-      - text: "news"
-        link: "#"
-        submenu:
-          - text: "fresh"
-            link: "#"
-          - text: "archive"
-            link: "#"  
-    link: "#" 
+  - text: Features
+    link: "#features"
+  - text: Pricing
+    link: "#pricing"
+  - text: Screenshots
+    link: "#screenshots"
+  - text: Testimonials
+    link: "#testimonials"
+  - text: Subscribe
+    link: "#subscribe"        
