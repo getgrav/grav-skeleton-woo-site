@@ -19,16 +19,6 @@ social:
   -  url: "#"
      icon: google-plus  
 
-copyright: 
-  line1: Untitled
-  line2: Design:
-  url: http://html5up.net
-  url_label: HTML5 UP
-    
-logo:
-  text1: "Woo"
-  text2: "by HTML5 UP"
-
 # Main Menu
 menu:
   - text: Features
@@ -40,4 +30,23 @@ menu:
   - text: Testimonials
     link: "#testimonials"
   - text: Subscribe
-    link: "#subscribe"        
+    link: "#subscribe"    
+
+footer: 
+  text: "This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris."
+  address:
+    title: COME VISIT
+    lines:
+      - line: 1600 Amphitheatre Parkway
+      - line: Mountain View, CA
+      - line: 94043 US 
+  social_title: Socialize
+  contact:
+    title: CONTACT US
+    lines:
+      - text: 647.343.8234
+        url: "#"
+      - text: 123.456.7890
+        url: "#" 
+      - text: someone@woosite.com
+        url: "mailto:someone@woosite.com"    
