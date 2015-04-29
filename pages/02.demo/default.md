@@ -23,12 +23,6 @@ A [link](#),
 **strong text**, 
 ***em text***
 
-###Pull Quotes
->It is a paradisematic country, in which roasted parts of
->sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind
->texts it is an almost unorthographic life One day however a small line of blind text by the name
->of Lorem Ipsum decided to leave for the far World of Grammar
-
 ###Block Quotes
 >Your work is going to fill a large part of your life, and the only way to be truly satisfied is
 >to do what you believe is great work. And the only way to do great work is to love what you do.

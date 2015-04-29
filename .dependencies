@@ -6,11 +6,7 @@ git:
     error:
         url: https://github.com/getgrav/grav-plugin-error
         path: user/plugins/error
-        branch: develop
-    simple_form:
-        url: https://github.com/nunopress/grav-plugin-simple_form
-        path: user/plugins/simple_form
-        branch: develop    
+        branch: develop  
     woo:
         url: https://github.com/getgrav/grav-theme-woo
         path: user/themes/woo
@@ -20,10 +16,6 @@ links:
         src: grav-plugin-problems
         path: user/plugins/problems
         scm: github
-    simple_form:
-        src: grav-plugin-simple_form
-        path: user/plugins/simple_form
-        scm: github    
     error:
         src: grav-plugin-error
         path: user/plugins/error
