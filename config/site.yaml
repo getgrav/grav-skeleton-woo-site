@@ -1,0 +1,52 @@
+title: Woo
+author:
+  name: Joe Bloggs
+  email: 'joe@test.com'
+metadata:
+    description: 'Woo is a free and responsive theme for **Grav**. Its a port of Woo template by Styleshout.'
+    
+# Site settings
+title: Awesome Title
+email: your-email@domain.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  -  url: "#"
+     icon: facebook
+  -  url: "#"
+     icon: twitter
+  -  url: "#"
+     icon: google-plus  
+
+# Main Menu
+menu:
+  - text: Features
+    link: "#features"
+  - text: Pricing
+    link: "#pricing"
+  - text: Screenshots
+    link: "#screenshots"
+  - text: Testimonials
+    link: "#testimonials"
+  - text: Subscribe
+    link: "#subscribe"    
+
+footer: 
+  text: "This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris."
+  address:
+    title: COME VISIT
+    lines:
+      - line: 1600 Amphitheatre Parkway
+      - line: Mountain View, CA
+      - line: 94043 US 
+  social_title: Socialize
+  contact:
+    title: CONTACT US
+    lines:
+      - text: 647.343.8234
+        url: "#"
+      - text: 123.456.7890
+        url: "#" 
+      - text: someone@woosite.com
+        url: "mailto:someone@woosite.com"    
