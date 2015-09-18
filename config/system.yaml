@@ -3,10 +3,11 @@ home:
 
 pages:
   theme: woo
-  markdown_extra: true
   process:
     markdown: true
     twig: false
+  markdown: 
+    extra: true  
 
 cache:
   enabled: false
