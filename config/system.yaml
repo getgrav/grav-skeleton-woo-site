@@ -6,8 +6,8 @@ pages:
   process:
     markdown: true
     twig: false
-  markdown: 
-    extra: true  
+  markdown:
+    extra: true
 
 cache:
   enabled: false
@@ -28,6 +28,8 @@ assets:
   css_rewrite: true
   js_pipeline: false
   js_minify: true
+  collections:
+    jquery: system://assets/jquery/jquery-2.1.4.min.js
 
 debugger:
   enabled: false
