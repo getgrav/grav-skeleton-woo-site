@@ -29,7 +29,7 @@ assets:
   js_pipeline: false
   js_minify: true
   collections:
-    jquery: system://assets/jquery/jquery-2.1.4.min.js
+    jquery: system://assets/jquery/jquery-2.x.min.js
 
 debugger:
   enabled: false
