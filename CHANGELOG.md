@@ -1,3 +1,12 @@
+# v1.0.3
+## 10/24/2026
+
+1. [](#improved)
+    * Updated for **Grav 2**: the package now includes Admin2 and installs the released version of every plugin and theme
+1. [](#bugfix)
+    * Added the missing `accounts` folder, without which a fresh install stopped on a Grav Problems page
+    * Removed the setting that forced the old jQuery 2, since the Woo theme now works with the jQuery Grav loads
+
 # v1.0.2
 ## 10/23/2026
 
